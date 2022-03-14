@@ -15,6 +15,8 @@ Install the following packages in the Unity Package Manager:
 ## Software and Packages
 3d reconstruction of the scene with https://immersal.com/
 
+Plane detection with Microsoft's PlaneFinding https://github.com/microsoft/MixedRealityToolkit/tree/main/SpatialMapping/PlaneFinding/
+
 Window detection with https://github.com/lck1201/win_det_heatmaps . Key points are detected on the textures and mapped into the 3d space.
 
 Triangulation with https://github.com/egomeh/unity-delaunay-triangulation
