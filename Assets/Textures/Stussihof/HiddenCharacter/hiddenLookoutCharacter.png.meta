@@ -1,0 +1,936 @@
+fileFormatVersion: 2
+guid: 1093bb5b32287c74c86982a5d9cda2ae
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 3621190438787396051
+    second: rausschauen0001
+  - first:
+      213: -19914688559853701
+    second: rausschauen0002
+  - first:
+      213: -7153394759538815242
+    second: rausschauen0003
+  - first:
+      213: 8493253207879904979
+    second: rausschauen0004
+  - first:
+      213: 1397542528908828513
+    second: rausschauen0005
+  - first:
+      213: -4427166898306038817
+    second: rausschauen0006
+  - first:
+      213: 323951954715313474
+    second: rausschauen0007
+  - first:
+      213: 458929756987473318
+    second: rausschauen0008
+  - first:
+      213: 3065067406350436864
+    second: rausschauen0009
+  - first:
+      213: 7548583447159335211
+    second: rausschauen0010
+  - first:
+      213: 2780885417422262637
+    second: rausschauen0011
+  - first:
+      213: -6673983373924290438
+    second: rausschauen0012
+  - first:
+      213: 8729489360993602538
+    second: rausschauen0013
+  - first:
+      213: -1722489304105103785
+    second: rausschauen0014
+  - first:
+      213: 7573657523122939288
+    second: rausschauen0015
+  - first:
+      213: -3570416552994008083
+    second: rausschauen0016
+  - first:
+      213: -4930074831631968836
+    second: rausschauen0017
+  - first:
+      213: 2910166489139786532
+    second: rausschauen0018
+  - first:
+      213: 4954122184891830596
+    second: rausschauen0019
+  - first:
+      213: 5524903143956640116
+    second: rausschauen0020
+  - first:
+      213: -2755819722789165228
+    second: rausschauen0021
+  - first:
+      213: -7914653425154338977
+    second: rausschauen0022
+  - first:
+      213: -773375498316829126
+    second: rausschauen0023
+  - first:
+      213: 2709039595204081138
+    second: rausschauen0024
+  - first:
+      213: 8858792695908039393
+    second: rausschauen0025
+  - first:
+      213: 7419909757517167388
+    second: rausschauen0026
+  - first:
+      213: 707707781833105180
+    second: rausschauen0027
+  - first:
+      213: 1235653647311902438
+    second: rausschauen0028
+  - first:
+      213: -8348436763147962679
+    second: rausschauen0029
+  - first:
+      213: -7474933368894360117
+    second: rausschauen0030
+  - first:
+      213: -9127775170122596494
+    second: rausschauen0031
+  - first:
+      213: -6616149240624080079
+    second: rausschauen0032
+  - first:
+      213: -2149095491679506595
+    second: rausschauen0033
+  - first:
+      213: -7698312919412542239
+    second: rausschauen0034
+  - first:
+      213: 1025043502183148804
+    second: rausschauen0035
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: -1
+    wrapV: -1
+    wrapW: -1
+  nPOTScale: 1
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: rausschauen0001
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 68
+        width: 1
+        height: 1
+      alignment: 9
+      pivot: {x: 150, y: -249}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3d1b6f7a48d014230800000000000000
+      internalID: 3621190438787396051
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rausschauen0002
+      rect:
+        serializedVersion: 2
+        x: 1934
+        y: 1583
+        width: 79
+        height: 227
+      alignment: 9
+      pivot: {x: 1.8987342, y: -0.03524229}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b7fc39e32bf39bff0800000000000000
+      internalID: -19914688559853701
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rausschauen0003
+      rect:
+        serializedVersion: 2
+        x: 1827
+        y: 669
+        width: 137
+        height: 406
+      alignment: 9
+      pivot: {x: 1.0948905, y: 0.42118227}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6fe4c83dd590abc90800000000000000
+      internalID: -7153394759538815242
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rausschauen0004
+      rect:
+        serializedVersion: 2
+        x: 1640
+        y: 617
+        width: 185
+        height: 458
+      alignment: 9
+      pivot: {x: 0.8108108, y: 0.47598255}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3dee02b1bc81ed570800000000000000
+      internalID: 8493253207879904979
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rausschauen0005
+      rect:
+        serializedVersion: 2
+        x: 1520
+        y: 120
+        width: 222
+        height: 471
+      alignment: 9
+      pivot: {x: 0.6756757, y: 0.49044585}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 16f9c1a8681156310800000000000000
+      internalID: 1397542528908828513
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rausschauen0006
+      rect:
+        serializedVersion: 2
+        x: 1104
+        y: 601
+        width: 250
+        height: 467
+      alignment: 9
+      pivot: {x: 0.6, y: 0.49250534}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fd3c911892b8f82c0800000000000000
+      internalID: -4427166898306038817
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rausschauen0007
+      rect:
+        serializedVersion: 2
+        x: 1651
+        y: 1077
+        width: 267
+        height: 483
+      alignment: 9
+      pivot: {x: 0.56179774, y: 0.5072464}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 24589112698ee7400800000000000000
+      internalID: 323951954715313474
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rausschauen0008
+      rect:
+        serializedVersion: 2
+        x: 273
+        y: 567
+        width: 272
+        height: 490
+      alignment: 9
+      pivot: {x: 0.5514706, y: 0.5102041}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6ad3816be227e5600800000000000000
+      internalID: 458929756987473318
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rausschauen0009
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 1058
+        width: 270
+        height: 492
+      alignment: 9
+      pivot: {x: 0.5555556, y: 0.5081301}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 00a4520119e498a20800000000000000
+      internalID: 3065067406350436864
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rausschauen0010
+      rect:
+        serializedVersion: 2
+        x: 547
+        y: 568
+        width: 273
+        height: 489
+      alignment: 9
+      pivot: {x: 0.5494506, y: 0.51124746}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b29635da6a4f1c860800000000000000
+      internalID: 7548583447159335211
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rausschauen0011
+      rect:
+        serializedVersion: 2
+        x: 284
+        y: 75
+        width: 267
+        height: 490
+      alignment: 9
+      pivot: {x: 0.56179774, y: 0.5102041}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d61948aad80b79620800000000000000
+      internalID: 2780885417422262637
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rausschauen0012
+      rect:
+        serializedVersion: 2
+        x: 553
+        y: 1558
+        width: 264
+        height: 489
+      alignment: 9
+      pivot: {x: 0.5681818, y: 0.5092025}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a7031605b7f3163a0800000000000000
+      internalID: -6673983373924290438
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rausschauen0013
+      rect:
+        serializedVersion: 2
+        x: 279
+        y: 1557
+        width: 272
+        height: 490
+      alignment: 9
+      pivot: {x: 0.5514706, y: 0.5102041}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aeb4390b250652970800000000000000
+      internalID: 8729489360993602538
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rausschauen0014
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 564
+        width: 270
+        height: 492
+      alignment: 9
+      pivot: {x: 0.5555556, y: 0.50609756}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 75ec763aa1d7818e0800000000000000
+      internalID: -1722489304105103785
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rausschauen0015
+      rect:
+        serializedVersion: 2
+        x: 553
+        y: 78
+        width: 271
+        height: 488
+      alignment: 9
+      pivot: {x: 0.55350554, y: 0.51229507}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 895253ce3690b1960800000000000000
+      internalID: 7573657523122939288
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rausschauen0016
+      rect:
+        serializedVersion: 2
+        x: 821
+        y: 1069
+        width: 273
+        height: 488
+      alignment: 9
+      pivot: {x: 0.5494506, y: 0.5102459}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: de31e9adf05537ec0800000000000000
+      internalID: -3570416552994008083
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rausschauen0017
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 1552
+        width: 276
+        height: 495
+      alignment: 9
+      pivot: {x: 0.54347825, y: 0.5050505}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cb59b70bf0bd49bb0800000000000000
+      internalID: -4930074831631968836
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rausschauen0018
+      rect:
+        serializedVersion: 2
+        x: 1658
+        y: 1562
+        width: 274
+        height: 485
+      alignment: 9
+      pivot: {x: 0.54744524, y: 0.5154639}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4233c6ec00df26820800000000000000
+      internalID: 2910166489139786532
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rausschauen0019
+      rect:
+        serializedVersion: 2
+        x: 273
+        y: 1059
+        width: 275
+        height: 491
+      alignment: 9
+      pivot: {x: 0.54545456, y: 0.509165}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4411c5c01e390c440800000000000000
+      internalID: 4954122184891830596
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rausschauen0020
+      rect:
+        serializedVersion: 2
+        x: 550
+        y: 1066
+        width: 269
+        height: 489
+      alignment: 9
+      pivot: {x: 0.5576208, y: 0.51124746}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 47179f123266cac40800000000000000
+      internalID: 5524903143956640116
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rausschauen0021
+      rect:
+        serializedVersion: 2
+        x: 1096
+        y: 1070
+        width: 276
+        height: 487
+      alignment: 9
+      pivot: {x: 0.54347825, y: 0.513347}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 457e226209c51c9d0800000000000000
+      internalID: -2755819722789165228
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rausschauen0022
+      rect:
+        serializedVersion: 2
+        x: 826
+        y: 92
+        width: 276
+        height: 486
+      alignment: 9
+      pivot: {x: 0.54347825, y: 0.5123457}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f5fc859b4a0892290800000000000000
+      internalID: -7914653425154338977
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rausschauen0023
+      rect:
+        serializedVersion: 2
+        x: 1378
+        y: 1077
+        width: 271
+        height: 484
+      alignment: 9
+      pivot: {x: 0.55350554, y: 0.5144628}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a3ea5d0f41b6445f0800000000000000
+      internalID: -773375498316829126
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rausschauen0024
+      rect:
+        serializedVersion: 2
+        x: 819
+        y: 1559
+        width: 278
+        height: 488
+      alignment: 9
+      pivot: {x: 0.53956836, y: 0.51229507}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2f57b92a821789520800000000000000
+      internalID: 2709039595204081138
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rausschauen0025
+      rect:
+        serializedVersion: 2
+        x: 1099
+        y: 1561
+        width: 277
+        height: 486
+      alignment: 9
+      pivot: {x: 0.54151624, y: 0.5144033}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1ea7c626501c0fa70800000000000000
+      internalID: 8858792695908039393
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rausschauen0026
+      rect:
+        serializedVersion: 2
+        x: 822
+        y: 580
+        width: 280
+        height: 487
+      alignment: 9
+      pivot: {x: 0.53571427, y: 0.51129365}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c1bf342bc90d8f660800000000000000
+      internalID: 7419909757517167388
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rausschauen0027
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 71
+        width: 281
+        height: 491
+      alignment: 9
+      pivot: {x: 0.5338078, y: 0.509165}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c1f11fc5a7842d900800000000000000
+      internalID: 707707781833105180
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rausschauen0028
+      rect:
+        serializedVersion: 2
+        x: 1378
+        y: 1563
+        width: 278
+        height: 484
+      alignment: 9
+      pivot: {x: 0.53956836, y: 0.5144628}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6e61179027ce52110800000000000000
+      internalID: 1235653647311902438
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rausschauen0029
+      rect:
+        serializedVersion: 2
+        x: 1374
+        y: 593
+        width: 264
+        height: 482
+      alignment: 9
+      pivot: {x: 0.5681818, y: 0.49585062}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9c6f0ceeef4642c80800000000000000
+      internalID: -8348436763147962679
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rausschauen0030
+      rect:
+        serializedVersion: 2
+        x: 1104
+        y: 134
+        width: 234
+        height: 465
+      alignment: 9
+      pivot: {x: 0.64102566, y: 0.48387095}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bc5765374b3b34890800000000000000
+      internalID: -7474933368894360117
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rausschauen0031
+      rect:
+        serializedVersion: 2
+        x: 1340
+        y: 118
+        width: 178
+        height: 473
+      alignment: 9
+      pivot: {x: 0.8426966, y: 0.49682876}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 27f363308d0a35180800000000000000
+      internalID: -9127775170122596494
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rausschauen0032
+      rect:
+        serializedVersion: 2
+        x: 1934
+        y: 1812
+        width: 106
+        height: 235
+      alignment: 9
+      pivot: {x: 1.4150944, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 13b91abc157be24a0800000000000000
+      internalID: -6616149240624080079
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rausschauen0033
+      rect:
+        serializedVersion: 2
+        x: 1934
+        y: 1381
+        width: 44
+        height: 200
+      alignment: 9
+      pivot: {x: 3.409091, y: -0.125}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d5fac066901ec22e0800000000000000
+      internalID: -2149095491679506595
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rausschauen0034
+      rect:
+        serializedVersion: 2
+        x: 2015
+        y: 1677
+        width: 15
+        height: 133
+      alignment: 9
+      pivot: {x: 10, y: -0.42105263}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1e47d9cef291a2590800000000000000
+      internalID: -7698312919412542239
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rausschauen0035
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 68
+        width: 1
+        height: 1
+      alignment: 9
+      pivot: {x: 150, y: -249}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 40de2f262afa93e00800000000000000
+      internalID: 1025043502183148804
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,672 @@
+fileFormatVersion: 2
+guid: 99b1701081d41434091b5d38e346f3ab
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -1892750772303407422
+    second: zem_zwischenraum_010001
+  - first:
+      213: -4885127052630162070
+    second: zem_zwischenraum_010002
+  - first:
+      213: -7887013906131672958
+    second: zem_zwischenraum_010003
+  - first:
+      213: -7996271856434989549
+    second: zem_zwischenraum_010004
+  - first:
+      213: 4533708058411329308
+    second: zem_zwischenraum_010005
+  - first:
+      213: 6358863613552882012
+    second: zem_zwischenraum_010006
+  - first:
+      213: 8511280672531100096
+    second: zem_zwischenraum_010007
+  - first:
+      213: 8417524078076424723
+    second: zem_zwischenraum_010008
+  - first:
+      213: -6882261230920617743
+    second: zem_zwischenraum_010009
+  - first:
+      213: -2725341428177660334
+    second: zem_zwischenraum_010010
+  - first:
+      213: 5070277302705256370
+    second: zem_zwischenraum_010011
+  - first:
+      213: -4758252119826403633
+    second: zem_zwischenraum_010012
+  - first:
+      213: 3445073490102324003
+    second: zem_zwischenraum_010013
+  - first:
+      213: 1774327544921779138
+    second: zem_zwischenraum_010014
+  - first:
+      213: 1583148656878360304
+    second: zem_zwischenraum_010015
+  - first:
+      213: -1715218040030193670
+    second: zem_zwischenraum_010016
+  - first:
+      213: 7576196874943848780
+    second: zem_zwischenraum_010017
+  - first:
+      213: 8283868200675357675
+    second: zem_zwischenraum_010018
+  - first:
+      213: -5205777259906792578
+    second: zem_zwischenraum_010019
+  - first:
+      213: -632398124718799678
+    second: zem_zwischenraum_010020
+  - first:
+      213: 7424691346267492728
+    second: zem_zwischenraum_010021
+  - first:
+      213: 612928440700781480
+    second: zem_zwischenraum_010022
+  - first:
+      213: 7990938224034555446
+    second: zem_zwischenraum_010023
+  - first:
+      213: 8433943222355109922
+    second: zem_zwischenraum_010024
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: -1
+    wrapV: -1
+    wrapW: -1
+  nPOTScale: 1
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: zem_zwischenraum_010001
+      rect:
+        serializedVersion: 2
+        x: 1191
+        y: 55
+        width: 392
+        height: 387
+      alignment: 9
+      pivot: {x: 0.49234694, y: 0.36950904}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2c6528863399bb5e0800000000000000
+      internalID: -1892750772303407422
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zem_zwischenraum_010002
+      rect:
+        serializedVersion: 2
+        x: 1598
+        y: 509
+        width: 393
+        height: 380
+      alignment: 9
+      pivot: {x: 0.49363866, y: 0.3763158}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a65045104da843cb0800000000000000
+      internalID: -4885127052630162070
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zem_zwischenraum_010003
+      rect:
+        serializedVersion: 2
+        x: 1202
+        y: 455
+        width: 392
+        height: 387
+      alignment: 9
+      pivot: {x: 0.49234694, y: 0.36950904}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 280a47ab3a2bb8290800000000000000
+      internalID: -7887013906131672958
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zem_zwischenraum_010004
+      rect:
+        serializedVersion: 2
+        x: 1599
+        y: 889
+        width: 399
+        height: 383
+      alignment: 9
+      pivot: {x: 0.48370928, y: 0.38903394}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3163db5dc19870190800000000000000
+      internalID: -7996271856434989549
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zem_zwischenraum_010005
+      rect:
+        serializedVersion: 2
+        x: 1599
+        y: 1272
+        width: 401
+        height: 386
+      alignment: 9
+      pivot: {x: 0.48129675, y: 0.37823835}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c17eee06577faee30800000000000000
+      internalID: 4533708058411329308
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zem_zwischenraum_010006
+      rect:
+        serializedVersion: 2
+        x: 399
+        y: 1227
+        width: 401
+        height: 409
+      alignment: 9
+      pivot: {x: 0.48129675, y: 0.42787287}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c51f9fc04c83f3850800000000000000
+      internalID: 6358863613552882012
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zem_zwischenraum_010007
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1594
+        width: 399
+        height: 454
+      alignment: 9
+      pivot: {x: 0.48370928, y: 0.47577092}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0c13ddd4da42e1670800000000000000
+      internalID: 8511280672531100096
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zem_zwischenraum_010008
+      rect:
+        serializedVersion: 2
+        x: 1200
+        y: 1258
+        width: 399
+        height: 390
+      alignment: 9
+      pivot: {x: 0.48370928, y: 0.4}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 312fa021d8d01d470800000000000000
+      internalID: 8417524078076424723
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zem_zwischenraum_010009
+      rect:
+        serializedVersion: 2
+        x: 399
+        y: 1636
+        width: 400
+        height: 412
+      alignment: 9
+      pivot: {x: 0.4825, y: 0.43203884}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1f0b88fcfdb4d70a0800000000000000
+      internalID: -6882261230920617743
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zem_zwischenraum_010010
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 9
+        width: 399
+        height: 405
+      alignment: 9
+      pivot: {x: 0.48370928, y: 0.4271605}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 25690d91964ad2ad0800000000000000
+      internalID: -2725341428177660334
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zem_zwischenraum_010011
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 414
+        width: 403
+        height: 406
+      alignment: 9
+      pivot: {x: 0.48138958, y: 0.4408867}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2b7f874e75e3d5640800000000000000
+      internalID: 5070277302705256370
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zem_zwischenraum_010012
+      rect:
+        serializedVersion: 2
+        x: 1191
+        y: 1648
+        width: 401
+        height: 400
+      alignment: 9
+      pivot: {x: 0.48129675, y: 0.415}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fce6ff548ea47fdb0800000000000000
+      internalID: -4758252119826403633
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zem_zwischenraum_010013
+      rect:
+        serializedVersion: 2
+        x: 803
+        y: 442
+        width: 399
+        height: 395
+      alignment: 9
+      pivot: {x: 0.48370928, y: 0.41518986}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 32b0aa2261c5fcf20800000000000000
+      internalID: 3445073490102324003
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zem_zwischenraum_010014
+      rect:
+        serializedVersion: 2
+        x: 1199
+        y: 842
+        width: 399
+        height: 395
+      alignment: 9
+      pivot: {x: 0.48370928, y: 0.43544304}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2cbe046508daf9810800000000000000
+      internalID: 1774327544921779138
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zem_zwischenraum_010015
+      rect:
+        serializedVersion: 2
+        x: 799
+        y: 10
+        width: 392
+        height: 404
+      alignment: 9
+      pivot: {x: 0.49234694, y: 0.43316832}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0f61fd7c05978f510800000000000000
+      internalID: 1583148656878360304
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zem_zwischenraum_010016
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 1237
+        width: 400
+        height: 403
+      alignment: 9
+      pivot: {x: 0.4825, y: 0.4516129}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: af798abb7425238e0800000000000000
+      internalID: -1715218040030193670
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zem_zwischenraum_010017
+      rect:
+        serializedVersion: 2
+        x: 399
+        y: 820
+        width: 401
+        height: 407
+      alignment: 9
+      pivot: {x: 0.48129675, y: 0.43980345}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c41e377daee042960800000000000000
+      internalID: 7576196874943848780
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zem_zwischenraum_010018
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 739
+        width: 399
+        height: 416
+      alignment: 9
+      pivot: {x: 0.48370928, y: 0.47115386}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: be3b86b1d3636f270800000000000000
+      internalID: 8283868200675357675
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zem_zwischenraum_010019
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1155
+        width: 399
+        height: 439
+      alignment: 9
+      pivot: {x: 0.48370928, y: 0.49202734}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e73037bd92d51c7b0800000000000000
+      internalID: -5205777259906792578
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zem_zwischenraum_010020
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 837
+        width: 399
+        height: 400
+      alignment: 9
+      pivot: {x: 0.48370928, y: 0.4175}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2c4438391454937f0800000000000000
+      internalID: -632398124718799678
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zem_zwischenraum_010021
+      rect:
+        serializedVersion: 2
+        x: 1592
+        y: 1658
+        width: 399
+        height: 390
+      alignment: 9
+      pivot: {x: 0.48370928, y: 0.3897436}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 871d035117dc90760800000000000000
+      internalID: 7424691346267492728
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zem_zwischenraum_010022
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 324
+        width: 400
+        height: 415
+      alignment: 9
+      pivot: {x: 0.4825, y: 0.41686746}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8a344bc5b2f818800800000000000000
+      internalID: 612928440700781480
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zem_zwischenraum_010023
+      rect:
+        serializedVersion: 2
+        x: 1594
+        y: 124
+        width: 392
+        height: 385
+      alignment: 9
+      pivot: {x: 0.49234694, y: 0.37142858}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 636aba91af385ee60800000000000000
+      internalID: 7990938224034555446
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zem_zwischenraum_010024
+      rect:
+        serializedVersion: 2
+        x: 799
+        y: 1640
+        width: 392
+        height: 408
+      alignment: 9
+      pivot: {x: 0.49234694, y: 0.40686274}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2282a400da26b0570800000000000000
+      internalID: 8433943222355109922
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
