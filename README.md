@@ -1,4 +1,5 @@
 # Fast Content Placement in 3D Scenes with Unity
+![](demo1.gif)
 ## The Project
 - Making placement and alignment of (2d) content in 3d scenes easier and faster with the use of plane detection. By applying plane detection to the scene and finding planes for walls and other regions, 2d content (or content with a 2d reference plane) can be aligned and position to those found planes. By selection a location on a plane (e.g. the wall), content can be placed leaving only one axis of the content that might have to be changed. 
 - Initial placement suggestions through different criteria:
