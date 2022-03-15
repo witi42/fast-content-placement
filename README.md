@@ -1,9 +1,11 @@
 # Fast Content Placement in 3D Scenes with Unity
+Fast placement with plane detection based snapping
 ![Fast placement with plane detection based snapping](demo/demo1.gif)
 
 ![Fast placement with plane detection based snapping](demo/demo2.gif)
 
-![Auto placement based on window markers and triangulation](demo/demo3.png)
+Auto placement based on semantic markers (windows) and triangulation
+![Auto placement based on semantic markers and triangulation](demo/demo3.png)
 
 ## The Project
 - Making placement and alignment of (2d) content in 3d scenes easier and faster with the use of plane detection. By applying plane detection to the scene and finding planes for walls and other regions, 2d content (or content with a 2d reference plane) can be aligned and position to those found planes. By selection a location on a plane (e.g. the wall), content can be placed leaving only one axis of the content that might have to be changed. 
